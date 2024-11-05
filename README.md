@@ -3,9 +3,7 @@
 
 - 📚 master in computer science @ [UniSA](https://corsi.unisa.it/informatica-magistrale)
 
-- 👨‍💻 take a look at my web portfolio: [https://david-personal-portfolio-one.vercel.app/](https://david-personal-portfolio-one.vercel.app/)
-
-- ☘ currently learning **computer vision and graphics programming**
+- 👨‍💻 take a look at my online portfolio: [https://david-personal-portfolio-one.vercel.app/](https://david-personal-portfolio-one.vercel.app/)
 
 - 📫 reach me out! **davidcoccorullo7@outlook.it**
 
