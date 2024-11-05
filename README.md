@@ -1,5 +1,5 @@
-<h1 align="center">meet david</h1>
-<h3 align="center">a computer enthusiast from Italy 🍕</h3>
+<h1 align="left">meet david</h1>
+<h3 align="left">a computer enthusiast from Italy 🍕</h3>
 
 - 📚 master in computer science @ [UniSA](https://corsi.unisa.it/informatica-magistrale)
 
