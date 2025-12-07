@@ -1,11 +1,11 @@
 <h1 align="left">meet david</h1>
 <h3 align="left">a computer enthusiast from Italy 🍕</h3>
 
-- 📚 master in computer science @ [UniSA](https://corsi.unisa.it/informatica-magistrale)
+- 📚 new graduate in computer science / data science & machine learning @ [UniSA](https://corsi.unisa.it/informatica-magistrale)
 
-- 📀 focusing on machine learning, software engineering, data science and vr/ar development
+- 📀 focusing on machine learning, computer vision, software engineering, data science and vr/ar development
 
-- 🌟 currently improving graphics programming, learning rust
+- 🌟 currently learning generative ai, always improving !
 
 - 👨‍💻 take a look at my [online portfolio](https://davidcocc.github.io/) (WIP!!!)
 
