@@ -11,17 +11,43 @@
 
 
 <h3 align="left">some of my skills:</h3>
-<p align="center">
+<h4 align="left">programming languages: </h4>
+<p align="left">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=git,kubernetes,docker,c,vim"
+      src="https://go-skill-icons.vercel.app/api/icons?i=python,c,cs,cpp,java,javascript,r,typescript"
+    />
+  </a>
+</p>
+<h4 align="left">libraries & frameworks: </h4>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,opencv,react,vue,langchain,fastapi,gradio"
+    />
+  </a>
+</p>
+<h4 align="left">technologies: </h4>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,docker,mongodb,mysql"
+    />
+  </a>
+</p>
+<h4 align="left">misc: </h4>
+<p align="left">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=cursor,ableton,blender,unity,unrealengine,latex,photoshop,touchdesigner"
     />
   </a>
 </p>
 
+
 <h3 align="left">reach out:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/davidcocc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidcocc" height="30" width="40" /></a>
-<a href="mailto:davidcoccorullo7@outlook.it" target="blank"><img align="center" src="https://www.svgrepo.com/show/375804/email.svg" alt="davidcoccorullo7@outlook.it" height="30" width="50" /></a>
+<a href="https://linkedin.com/in/davidcocc" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="davidcocc" height="30" width="40" /></a>
+<a href="mailto:davidcoccorullo7@outlook.it" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=gmail" alt="davidcoccorullo7@outlook.it" height="30" width="50" /></a>
 </p>
 
